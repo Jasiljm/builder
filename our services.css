@@ -1,0 +1,13 @@
+.option{
+    height:50px;
+    width: 1000px;
+    background: antiquewhite;
+    border-radius:50px;
+}
+h1{
+    font-size:50px;
+    background:rgb(32, 32, 32);
+    color:azure;
+    box-shadow:30px 30px 30px 30px black;
+
+}
