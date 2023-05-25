@@ -1,0 +1,31 @@
+#cont{
+height:1000px;
+width:2000px;
+background:#453737;
+font-size:50px;
+font-family:sans-serif;
+color:white;
+box-shadow:40px 40px 50px ;
+
+
+}
+u{
+    margin-left:400px;
+    background:grey;
+    font-size:100px;
+}
+#meemo{
+background:rgb(221, 221, 180);
+color:darkslategrey;
+
+
+}
+#information{
+font-size:60px;
+font-family:courier;
+color:rgb(0, 0, 0);
+
+
+
+
+}
