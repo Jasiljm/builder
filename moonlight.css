@@ -1,0 +1,58 @@
+h1{
+  color:aqua;  
+  font-display: inline;
+font-size: 40px;
+
+display: inline-block;
+
+
+}
+body
+{
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;
+
+}
+
+img{
+    float:left;  
+
+}
+a:link, a:visited{
+	
+	
+	font-size:30px;
+font-family:italic;
+color:rgb(255, 255, 255);
+text-decoration:none;
+margin-left:50px;
+display:inline-block;
+background:rgb(8, 9, 53);
+border-radius:50px;
+box-shadow:30px 40px 50px;
+	
+		
+	
+	}	
+	a:hover, a:active{
+		
+		}
+
+.search{
+   
+    border-radius:60px;
+    display:inline-block;
+}
+p{
+
+  font-size:100px;
+  font-family:bold;
+  position: relative;
+  
+  
+}
+#navbar{
+  background: #00001a;
+}
+
